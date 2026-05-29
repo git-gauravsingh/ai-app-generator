@@ -67,7 +67,34 @@ npm run build
 * Authentication
 * Cloud Saved Configurations
 
+## Screenshots
+
+### Main Dashboard
+
+### Empty State
+
+### Error State
+
+## Architecture
+
+```text
+JSON Editor
+      ↓
+Undo / Redo
+      ↓
+JSON Parser
+      ↓
+Zustand Store
+      ↓
+Dynamic Renderer
+      ↓
+Live Preview
+```
+
+## Live Demo
+
+https://
+
 ## Author
 
 Gaurav Kumar Singh
-BIT Patna
