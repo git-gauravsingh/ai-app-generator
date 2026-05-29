@@ -93,7 +93,7 @@ Live Preview
 
 ## Live Demo
 
-https://
+https://ai-app-generator-nu.vercel.app/
 
 ## Author
 
